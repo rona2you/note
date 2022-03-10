@@ -5,5 +5,6 @@
 分别输入github.global.ssl.fastly.net和github.com，查询ip地址
 
 cmd  ipconfig /flushdns 刷新CDN缓存
-
+    
+     
 
